@@ -1,10 +1,9 @@
 ### Description
-The file contains my past labs done for my CIS 120 - Data Structures and Algorithms course. I took this course in the fall of 2020, with this class was my most recent object oriented programming class to this date.
-
-In this course I learned the basics of data structures and algorithims.
+The file contains my past labs done for my CIS 120 - Data Structures and Algorithms. This course course in the fall of 2020, being my most recent object oriented programming class. In this course I learned the basics of data structures and algorithims.
 <br>
 
-Contains:
+Labs Demonstrate the Following:
+
 * Nodes
 * Stacks
 * Linked Lists

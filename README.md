@@ -53,4 +53,3 @@ The file contains my past labs done for my CIS 220 - Data Communication and Netw
 * Command Line Knowledge
 * Hashing
 * Checksums
-* 

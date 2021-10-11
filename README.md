@@ -34,4 +34,12 @@ The file contains my past labs done for my CIS 120 - Data Structures and Algorit
 * Inheritance
 * Recursive Code
 
+## CIS 320 - Data Communication and Networks
+#### Networking
 
+
+The file contains my past labs done for my CIS 220 - Data Communication and Network. This course course in the Spring of 2021, which was my first exposure into the world of networking. In this class I learned the basics of how data is communicated across a network and used wireshark.
+<br>
+<br>
+
+**Demonstrates Knowledge of the Following:**
